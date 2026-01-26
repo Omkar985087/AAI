@@ -1,5 +1,4 @@
 first open the terminal. 
-then go to thw folder.
-after that type in terminal "g++ main1.cpp -o main1"
-then type in terminal "main1 input.txt <numberofdays> > output.txt"
+after that type in terminal "g++ assg01.cpp -o assg01"
+then type in terminal "assg01 input"01/02/03".txt <numberofdays> > output.txt"
 then see the output.txt file
