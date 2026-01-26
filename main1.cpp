@@ -109,7 +109,7 @@ void dfs(int day) {
 
 int main(int argc, char* argv[]) {
     if (argc != 3) {
-        cout << "Usage: scheduler <inputfile> <days>\n";
+        cout << "Usage: main1 <inputfile> <days>\n";
         return 0;
     }
 
