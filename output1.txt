@@ -1,0 +1,677 @@
+========== Schedule 1 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 6 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 2 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 7 ]
+  Student 2: [ 6 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 3 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 ]
+  Student 2: [ 6 ]
+  Student 3: [ 7 ]
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 4 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 5 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 5 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 5 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 6 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 5 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 7 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 7 ]
+  Student 2: [ 5 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 8 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 5 7 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 9 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 5 ]
+  Student 3: [ 7 ]
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 10 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 7 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 11 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 7 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 ]
+  Student 2: [ 6 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 12 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 5 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 13 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 3 ]
+  Student 2: []
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 5 ]
+  Student 2: [ 6 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 14 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 6 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 15 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 7 ]
+  Student 2: [ 6 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 16 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 ]
+  Student 2: [ 6 ]
+  Student 3: [ 7 ]
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 17 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 5 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 18 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 5 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 19 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 5 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 20 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 7 ]
+  Student 2: [ 5 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 21 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 5 7 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 22 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 5 ]
+  Student 3: [ 7 ]
+Day 4:
+  Student 1: [ 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 23 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 7 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 24 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 7 ]
+  Student 2: []
+  Student 3: []
+Day 4:
+  Student 1: [ 5 ]
+  Student 2: [ 6 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 25 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 5 6 ]
+  Student 2: []
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+========== Schedule 26 ==========
+Day 1:
+  Student 1: [ 1 ]
+  Student 2: []
+  Student 3: []
+Day 2:
+  Student 1: [ 2 ]
+  Student 2: [ 3 ]
+  Student 3: []
+Day 3:
+  Student 1: [ 4 ]
+  Student 2: [ 7 ]
+  Student 3: []
+Day 4:
+  Student 1: [ 5 ]
+  Student 2: [ 6 ]
+  Student 3: []
+Day 5:
+  Student 1: [ 8 ]
+  Student 2: [ 9 ]
+  Student 3: []
+Day 6:
+  Student 1: [ 10 ]
+  Student 2: []
+  Student 3: []
+
+Total valid schedules = 26
